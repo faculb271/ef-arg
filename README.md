@@ -1,3 +1,3 @@
-# Uso de python aplicado a las finanzas
+## Uso de python aplicado a las finanzas
 
-Ultimo desarrollo: Frontera eficiente para Argentina
+Ultimo desarrollo: Correlaciones entre Sectores
